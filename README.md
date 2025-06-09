@@ -30,7 +30,7 @@ tkinter – for building the desktop GUI
 bash
 Copy
 Edit
-git clone https://github.com/sravanthi937/email-communication.git
+git clone https://github.com/Raziya117/Secure_Email_Communication.git
 cd email-communication
 2. Install Dependencies
 bash
